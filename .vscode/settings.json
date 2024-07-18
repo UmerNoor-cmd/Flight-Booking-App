@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "g:\\Porj\\lib\\commons-lang3-3.8.1.jar",
+        "g:\\Porj\\lib\\commons-logging-1.2.jar",
+        "g:\\Porj\\lib\\hsqldb-2.5.0.jar",
+        "g:\\Porj\\lib\\jackcess-3.0.1.jar",
+        "g:\\Porj\\ucanaccess-5.0.1.jar"
+    ]
+}
